@@ -1,4 +1,4 @@
 numpy
 imutils
 OpenCV==4.0.1.24
-tensorflow-cpu==2.6.0
+tensorflow-cpu==2.11.1
